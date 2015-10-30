@@ -6,8 +6,9 @@
   text-transform: uppercase;
 }
 .thumbnail img {
-   width: 50%;
+   width: 80%;
    max-width: 1020px;
+   min-width:150px;
 }
 .nav li {
   display: inline;
