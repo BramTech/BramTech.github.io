@@ -5,7 +5,10 @@
   padding: 14px 10px;
   text-transform: uppercase;
 }
-
+.thumbnail img {
+   width: 50%;
+   max-width: 250px;
+}
 .nav li {
   display: inline;
 }
