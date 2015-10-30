@@ -6,8 +6,10 @@
   text-transform: uppercase;
 }
 .thumbnail img {
-   width: 50%;
-
+  width: 120%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 .nav li {
   display: inline;
