@@ -8,8 +8,7 @@
 .thumbnail img {
   width: 290%;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
 }
 .nav li {
   display: inline;
