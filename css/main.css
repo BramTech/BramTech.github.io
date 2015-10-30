@@ -26,10 +26,29 @@
   top:100px;
 }
 
-.neighborhood-guides .container {
-  
+.neighborhood-guides {
+    background-color: #efefef;
+    border-bottom: 1px solid #dbdbdb;
 }
+.neighborhood-guides h2 {
+    color: #393c3d;
+    font-size: 24px;
 }
+.neighborhood-guides p {
+    font-size: 15px;
+    margin-bottom: 13px;
+}
+
+.neighborhood-guides { 
+    text-align: center;
+}
+.neighborhood-guides {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+
 
 .jumbotron h1 {
   color: #fff;
