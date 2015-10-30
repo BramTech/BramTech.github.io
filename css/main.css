@@ -15,7 +15,7 @@
 
 .jumbotron {
   background-image:url('http://imgs.abduzeedo.com/files/wallpapers/wpw307/wp_2560.jpg');
-  height: 500px;
+  height: 800px;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -27,13 +27,13 @@
 
 .jumbotron h1 {
   color: #fff;
-  font-size: 48px;  
+  font-size: 60px;  
   font-family: 'Shift', sans-serif;
   font-weight: bold;
 }
 
 .jumbotron p {
-  font-size: 20px;
+  font-size: 40px;
   color: #fff;
 }
 
