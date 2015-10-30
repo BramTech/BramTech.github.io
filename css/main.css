@@ -62,6 +62,19 @@
   color: #fff;
 }
 
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more b {
+  color: #00b0ff;
+}
 
 .nav-trigger {
   display: none;
