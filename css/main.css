@@ -5,11 +5,6 @@
     width: auto;
  }
 
-.image img {
-   width: 50%;
-   max-width: 250px;
-}
-
 .nav a {
   color: #5a5a5a;
   font-size: 11px;
@@ -71,4 +66,3 @@
     font-size: 15px;
     margin-bottom: 13px;
 }
-
