@@ -9,6 +9,7 @@
    width: 50%;
    max-width: 250px;
 }
+
 .nav a {
   color: #5a5a5a;
   font-size: 11px;
@@ -34,7 +35,7 @@
 }
 
 .jumbotron h1 {
-  color: #FFF;
+  color: #fff;
   font-size: 48px;  
   font-family: 'Shift', sans-serif;
   font-weight: bold;
@@ -45,6 +46,19 @@
   color: #fff;
 }
 
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
 .neighborhood-guides {
     background-color: #efefef;
     border-bottom: 1px solid #dbdbdb;
@@ -56,9 +70,5 @@
 .neighborhood-guides p {
     font-size: 15px;
     margin-bottom: 13px;
-}
-
-.neighborhood-guides { 
-    text-align: center;
 }
 
