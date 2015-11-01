@@ -1,9 +1,4 @@
-@media screen and (max-width: 1020px) { 
-    @media screen and (max-width: 1020px) {
-  #container, #header, #content, #footer {
-    float: none;
-    width: auto;
- }
+
 
 .nav a {
   color: #5a5a5a;
